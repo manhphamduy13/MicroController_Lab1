@@ -1,0 +1,12 @@
+# STM32CubeIDE / Eclipse build artifacts
+/Debug/
+/Release/
+*.elf
+*.map
+*.list
+*.cyclo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+*.tmp
