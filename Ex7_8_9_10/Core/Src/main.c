@@ -104,7 +104,7 @@ int main(void)
 
   /* USER CODE END 2 */
   int hour = 0;
-  int min = 0;
+  int min = 10;
   int sec = 0;
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
